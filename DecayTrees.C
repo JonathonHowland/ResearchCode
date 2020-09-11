@@ -1,4 +1,4 @@
-//Use different reco and gen tree. Look at plots of Hb mass versus Ha mass. Change Ha and Hb mass. Look at plots for Ha. 
+//Use different reco and gen tree. Look at plots of Hb mass versus Ha mass. Change Ha and Hb mass. Look at plots for Ha.  
 
 #include "RestFrames/RestFrames.hh"
 #include "TH1D.h"
