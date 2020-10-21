@@ -1,4 +1,4 @@
-//
+// I changed this line.
 // This file contains the class InputDialog.
 // An InputDialog object prompts for an input string using a simple
 // dialog box. The InputDialog class is also a good example of how
